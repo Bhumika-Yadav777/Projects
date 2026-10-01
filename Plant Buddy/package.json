@@ -1,0 +1,42 @@
+{
+  "devDependencies": {
+    "electron": "^44.5.1",
+    "electron-reload": "^2.0.0-alpha.1"
+  },
+  "name": "plant-buddy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "anymatch": "^3.1.3",
+    "binary-extensions": "^2.3.0",
+    "braces": "^3.0.3",
+    "chokidar": "^3.6.0",
+    "debug": "^4.4.3",
+    "env-paths": "^3.0.0",
+    "fill-range": "^7.1.1",
+    "glob-parent": "^5.1.2",
+    "graceful-fs": "^4.2.11",
+    "is-binary-path": "^2.1.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "ms": "^2.1.3",
+    "normalize-path": "^3.0.0",
+    "picomatch": "^2.3.2",
+    "progress": "^2.0.3",
+    "readdirp": "^3.6.0",
+    "semver": "^7.8.5",
+    "sumchecker": "^3.0.1",
+    "to-regex-range": "^5.0.1",
+    "undici": "^7.30.0",
+    "undici-types": "^7.24.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
